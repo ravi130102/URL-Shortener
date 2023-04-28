@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>URL Shortener</title>
+	
 </head>
 <body>
 	<h1>URL Shortener</h1>
